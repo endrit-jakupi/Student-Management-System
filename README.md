@@ -1,0 +1,2 @@
+# About the project
+The main objective of the Student Management System project is to manage the details of data, courses, and GPA of students. There are various functions within the main program and each function displays a specific and distinctive set of data. At last, the main student data can be printed and viewed in a textual file linked to the main program.  Find the source code of the Student Management System project above.
